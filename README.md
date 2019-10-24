@@ -1,3 +1,3 @@
 # GPS-spoofing
 
-An idea of implementing GPS spoofing.
+Understanding GPS spoofing and mitigation strategy
